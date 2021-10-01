@@ -4,10 +4,15 @@
 freny24/freny24 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=freny24&label=Profile%20views&color=0e75b6&style=flat" alt="freny24" /> </p>
+<p align="center"> <img height="400" width="800" src="https://github.com/freny24/freny24/blob/main/freny.gif" alt="freny24" /> </p>
 
 <h1 align="center">Hola 👋, I'm Freny Reji</h1>
 <h3 align="center">AI & ML Enthusiast</h3>
 
+<h3 align="left"> :girl: 💻  About me </h3>
+
+- 🔭 I’m currently studying in **Vellore Institute of Technology, Bhopal**
 
 - 🌱 I’m currently learning to build **Keras and Tensorflow Models**
 
