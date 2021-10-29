@@ -11,6 +11,7 @@ You can click the Preview link to take a look at your changes.
 <h3 align="center">AI & ML Enthusiast</h3>
 
 <h3 align="left"> :girl: 💻  About me </h3>
+<a href="https://twitter.com/Freny24" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_6-twitter-512.png" height="120px" width="120px" alt="Twitter" align="right"></a><a href="www.linkedin.com/in/freny-reji-2401" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_14-linkedin-512.png" height="120px" width="120px" alt="Twitter" align="right"></a>
 
 - 🔭 I’m currently studying in **Vellore Institute of Technology, Bhopal**
 
