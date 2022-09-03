@@ -16,7 +16,7 @@ You can click the Preview link to take a look at your changes.
 
 - 🌱 I’m currently learning to build **Keras and Tensorflow Models**
 
-- 👯 I’m currently collaborating on [winter-of-contributing](https://github.com/girlscript/winter-of-contributing)
+- 👯 I have collaborated on [winter-of-contributing](https://github.com/girlscript/winter-of-contributing) , [GSSOC'22](https://github.com/girlscript/GirlScript-Summer-of-Code) , [Hacktober-fest-2021](https://github.com/prathimacode-hub/ML-ProjectKart)
 
 - 💬 Feel Free to ask me about **on the aforementioned topics!**
 
