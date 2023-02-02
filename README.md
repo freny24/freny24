@@ -4,7 +4,7 @@
 freny24/freny24 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<p align="center"> <img height="160" width="600" src="https://user-images.githubusercontent.com/66861391/216419320-8a6e102a-442f-405d-aa14-5a569fe9b5d6.png" /> </p>
+<p align="center"> <img height="200" width="700" src="https://user-images.githubusercontent.com/66861391/216419320-8a6e102a-442f-405d-aa14-5a569fe9b5d6.png" /> </p>
 
 <h1 align="center">Hola 👋, I'm Freny Reji</h1>
 <h3 align="center">AI & ML Enthusiast</h3>
@@ -37,7 +37,6 @@ You can click the Preview link to take a look at your changes.
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=freny24&show_icons=true&locale=en&layout=compact" alt="freny24">
 </p>
   
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=freny24&theme=xcode)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 
