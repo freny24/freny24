@@ -7,7 +7,7 @@ You can click the Preview link to take a look at your changes.
 <p align="center"> <img height="200" width="700" src="https://user-images.githubusercontent.com/66861391/216419320-8a6e102a-442f-405d-aa14-5a569fe9b5d6.png" /> </p>
 
 <h1 align="center">Hola! I'm Freny Reji</h1>
-<h3 align="center">AI & ML Enthusiast</h3>
+
 
 <h3 align="left"> :girl: 💻  About me </h3>
 <a href="https://twitter.com/Freny24" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_6-twitter-512.png" height="120px" width="120px" alt="Twitter" align="right"></a><a href="www.linkedin.com/in/freny-reji-2401" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_14-linkedin-512.png" height="120px" width="120px" alt="Twitter" align="right"></a>
