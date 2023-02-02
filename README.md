@@ -4,7 +4,7 @@
 freny24/freny24 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<p align="center"> <img height="400" width="800" src="https://github.com/freny24/freny24/blob/main/freny.gif" alt="freny24" /> </p>
+<p align="center"> <img height="160" width="600" src="https://user-images.githubusercontent.com/66861391/216419320-8a6e102a-442f-405d-aa14-5a569fe9b5d6.png" /> </p>
 
 <h1 align="center">Hola 👋, I'm Freny Reji</h1>
 <h3 align="center">AI & ML Enthusiast</h3>
