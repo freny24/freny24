@@ -6,7 +6,7 @@ You can click the Preview link to take a look at your changes.
 --->
 <p align="center"> <img height="200" width="700" src="https://user-images.githubusercontent.com/66861391/216419320-8a6e102a-442f-405d-aa14-5a569fe9b5d6.png" /> </p>
 
-<h1 align="center">Hola 👋, I'm Freny Reji</h1>
+<h1 align="center">Hola! I'm Freny Reji</h1>
 <h3 align="center">AI & ML Enthusiast</h3>
 
 <h3 align="left"> :girl: 💻  About me </h3>
